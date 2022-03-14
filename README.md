@@ -1,9 +1,9 @@
 # Nucleo-Communication-and-compute-fractals
 
 This program was a semestral work from CVUT, faculty of electrical engineering.
-task assignor: prof. Ing. Jan Faigl, Ph.D., 
-subject: Programming in C
-Date: 30.5.2020
+task assignor: prof. Ing. Jan Faigl, Ph.D., \n
+subject: Programming in C\n
+Date: 30.5.2020\n\n
 
 Program for computing fractal.
 On a computer, the user can set fractal parameters which are instantly sent to Nucleo. 
