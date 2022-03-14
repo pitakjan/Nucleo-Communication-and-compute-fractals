@@ -2,6 +2,8 @@
 
 This program was a semestral work from CVUT, faculty of electrical engineering.
 
+Author: Jan Piták
+
 task assignor: prof. Ing. Jan Faigl, Ph.D., 
 
 subject: Programming in C
@@ -22,6 +24,7 @@ It is controlled only by a terminal on a computer.
 
 All files are writed by: Jan Piták
 
-Excluding: SDL.h, writed by prof. Ing. Jan Faigl, Ph.D.
-
-           Makefile - unknown author
+Excluding: 
+- SDL.h, writed by prof. Ing. Jan Faigl, Ph.D
+- Makefile - unknown author
+           
