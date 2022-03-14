@@ -19,3 +19,7 @@ It is controlled only by a terminal on a computer.
 
 
 ![Screenshot of computed fractal](https://user-images.githubusercontent.com/101328281/158256699-c5e2a47e-64dc-4f7b-a7bb-b5f30e46b7bb.png)
+
+All files are writed by: Jan Piták
+Excluding: SDL.h, writed by prof. Ing. Jan Faigl, Ph.D.
+           Makefile - unknown author
